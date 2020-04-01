@@ -28,8 +28,8 @@
 		"afterPeace":"Peace, as in the blue of my homeland's banner, should remain untarnished and immortal. I hope you reciprocate a Filipino's love for calm and serenity.",
 		"tradeRequest":"On behalf of the fair Philippines, I offer this deal...",
 				
-		"outerColor":[255,255,51],
-		"innerColor":[0,204,102],
+		"outerColor":[215,225,225],
+		"innerColor":[255,255,78],
 		"uniqueName":"Pearl of Asia",
 		"unique":"ACHAEMENID_LEGACY",
 		"cities":["Manila","Quezon","Davao","Caloocan","Cebu","Zamboanga","Pasig","Taguig","Antipolo",
