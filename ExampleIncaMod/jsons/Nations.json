@@ -29,7 +29,7 @@
 		"tradeRequest":"On behalf of the fair Philippines, I offer this deal...",
 				
 		"outerColor":[236, 178, 0],
-		"innerColor":[231, 213, 0],
+		"innerColor":[255, 255, 255],
 		"uniqueName":"Pearl of Asia",
 		"unique":"FATHER_GOVERNS_CHILDREN",
 		"cities":["Manila","Quezon","Davao","Caloocan","Cebu","Zamboanga","Pasig","Taguig","Antipolo",
