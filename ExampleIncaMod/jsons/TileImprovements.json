@@ -1,11 +1,12 @@
 [
 	{
-		"name":"Terrace farm",
-		"uniqueTo":"Inca",
+		"name":"Rice Terrace",
+		"uniqueTo":"Philippines",
 		"food":1,
-		"turnsToBuild":4,
+		"culture":1,
+		"turnsToBuild":5,
 		"uniques": ["+1 Food for each adjacent Mountain","Cannot improve a resource"],
-		"techRequired":"Construction",
+		"techRequired":"Agriculture",
 		"improvingTech":"Fertilizer",
 		"improvingTechStats":{"food":1},
 		"terrainsCanBeBuiltOn":["Hill"]
