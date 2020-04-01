@@ -15,12 +15,12 @@
 		"defeated":"I stand here now, ready to die for my country, what other destiny awaits me than this?",
 		"introduction":"Greetings, you have laid your eyes on the pearl of Asia, the Philippines.",
 		
-		"neutralHello":"Greetings under the sun.","Are you enjoying the scenery?"
+		"neutralHello":"Greetings under the sun.",
 		"neutralLetsHearIt":["Go on.","What do you say?","Go ahead."],
 		"neutralNo":["I must kindly refuse.","Such offer is too disadvantageous.","I refuse."],
 		"neutralYes":["Very good.","Of course, yes.","You lay agreeable terms."],
 
-		"hateHello":"And to who do I owe this visit from the devil?","I believe much in God because I have lost faith in men like you."
+		"hateHello":"And to who do I owe this visit from the devil?",
 		"hateLetsHearIt":["Torture my ears.","What do you bring to us now other than malice?","Go on."],
 		"hateNo":["Absolutely not!","A deal no less agreeable than one made by the devil.","Is it the tropical heat? Have you gone mad?"],
 		"hateYes":["This will do.","Atleast your pragmatics exceed your dullness.","I'll see into it."],
