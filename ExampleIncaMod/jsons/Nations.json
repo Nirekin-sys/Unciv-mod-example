@@ -28,8 +28,8 @@
 		"afterPeace":"We now see dawn shine over our lands, don't forget those who fell in the night...",
 		"tradeRequest":"On behalf of the fair Philippines, I offer this deal...",
 				
-		"outerColor":[236, 178, 0],
-		"innerColor":[255, 255, 255],
+		"outerColor":[83, 165, 255],
+		"innerColor":[255, 126, 0],
 		"uniqueName":"Pearl of Asia",
 		"unique":"FATHER_GOVERNS_CHILDREN",
 		"cities":["Manila","Quezon","Davao","Caloocan","Cebu","Zamboanga","Pasig","Taguig","Antipolo",
